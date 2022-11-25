@@ -1,0 +1,27 @@
+body{
+
+    color: #545454;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: yellowgreen;
+}
+#İlkParagraf{
+    color: red;
+}
+
+.koyu{
+
+    color: #545454;
+
+}
+.acık{
+    color:#999;
+}
+.kutu{
+    background-color: bisque;
+    color: blueviolet;
+    margin: 30px;
+    line-height: normal;
+}
+.kutu ul li span{
+    font-weight: bold;
+    }
